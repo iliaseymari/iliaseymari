@@ -1,3 +1,4 @@
+![logo](https://github.com/iliaseymari/iliaseymari/blob/main/ChatGPT%20Image%20Jul%2023%2C%202025%2C%2009_45_50%20AM.jpg)
 <h1 align="center">Hi 👋, I'm Ilia</h1>
 <h3 align="center">A 14-year-old programmer from Iran</h3>
 
