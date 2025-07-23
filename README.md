@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilia</h1>
 <h3 align="center">A 14-year-old programmer from Iran</h3>
 
+<img align="right" alt="ilia" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif/modules/913447149"> </img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iliaseymari&label=Profile%20views&color=0e75b6&style=flat" alt="iliaseymari" /> </p>
 
 - 🔭 I’m currently working on **Cryptocurrency Forecasting with Python**
