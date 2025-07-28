@@ -4,13 +4,13 @@
 <img align="right" alt="ilia" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif"> </img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iliaseymari&label=Profile%20views&color=0e75b6&style=flat" alt="iliaseymari" /> </p>
 
-- 🔭 I’m currently working on **Cryptocurrency Forecasting with Python**
+- 🔭 I’m currently working on **NLP ai with Python**
 
 - 🌱 I’m currently learning **js, php, machine learning**
 
 - 👯 I’m looking to collaborate on **every python project and web project**
 
-- 🤝 I’m looking for help with **My cryptocurrency project**
+- 🤝 I’m looking for help with **NLP ai**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iliaseymari/](https://github.com/iliaseymari/)
 
