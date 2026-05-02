@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **NLP ai with Python**
 
-- 🌱 I’m currently learning **js, php, machine learning**
+- 🌱 I’m currently learning **js, kali linux**
 
 - 👯 I’m looking to collaborate on **every python project and web project**
 
