@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **every python project and web project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/iliaseymari/](https://github.com/iliaseymari/) and in my <a herf="https://atila-portfolio-mu.vercel.app/">portfolio</a>
+- 👨‍💻 All of my projects are available at [https://github.com/iliaseymari/](https://github.com/iliaseymari/) and in my [portfolio](https://atila-portfolio-mu.vercel.app/)
 
 - 📫 How to reach me **iliaseymarizade@gmail.com**
 
