@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AI Agents, LLM, Machine Learning **
 
-- 🌱 I’m currently learning **Machine Learning, , Data Sets**
+- 🌱 I’m currently learning **Machine Learning, Data Sets**
 
 - 👯 I’m looking to collaborate on **every python project and web project**
 
